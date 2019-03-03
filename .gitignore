@@ -84,6 +84,7 @@ Temp/*
 */StarterContent/*
 Content/Mannequin/*
 Content/ThirdPerson*/*
+Content/Infinity*/*
 Content/Geometry/Meshes/1M_Cube\.uasset
 Content/Geometry/Meshes/1M_Cube_Chamfer\.uasset
 Content/Geometry/Meshes/CubeMaterial\.uasset
