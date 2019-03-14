@@ -76,6 +76,7 @@ DerivedDataCache/*
 
 # Packaged game
 out/*
+Package/*
 
 # Temporary storage
 Temp/*

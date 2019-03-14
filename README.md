@@ -1,3 +1,5 @@
+Project information
+==============
 This project is based on the Udemy course from Greg Wondra. Please find the course here: 
 https://www.udemy.com/unreal-engine-4-create-an-arcade-classic/
 
@@ -5,10 +7,17 @@ The course takes you through the creation of an arcade classic resembling Pac-Ma
 
 I don't claim this version is bug free or 100% in line with the course. But it's very close.
 
+Prerequisites
+=============
 In order to be able to use this repository you must have Git-LFS installed. The entire course relies heavily on Blueprints which is all binary files. Therefore all chekins resulted in variations of binary files.
 
 This version of the course was done on Unreal Engine version 4.20.3.
 
+Licensing
+=========
 Open sourced with the friendly permission of Greg Wondra. Please take his course. It's totally worth it!
+
+**Most assets are from Unreal content packs and are licensed accordingly. The project license does _NOT_ extend to those items!** They are typically free to use within an Unreal Engine product but not elsewhere.
+
 
 Enjoy!
